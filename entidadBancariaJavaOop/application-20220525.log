@@ -1,0 +1,71 @@
+2022-05-25 13:52:40.485 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - El saldo de mi cuenta aumento a $500.0
+2022-05-25 14:03:53.010 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - El saldo de mi cuenta aumento a $500.0
+2022-05-25 14:03:53.014 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:03:53.015 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - De mi cuenta retire dinero y quede con este nuevo saldo400.0
+2022-05-25 14:04:20.302 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - El saldo de mi cuenta aumento a $500.0
+2022-05-25 14:04:20.308 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:04:20.309 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - De mi cuenta retire dinero y quede con este nuevo saldo $400.0
+2022-05-25 14:23:46.806 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - El saldo de mi cuenta aumento a $500.0
+2022-05-25 14:23:46.810 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:23:46.811 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - De mi cuenta retire dinero y quede con este nuevo saldo $400.0
+2022-05-25 14:23:46.811 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:23:46.812 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Saldo en la cuenta de Carlos $1000.0
+2022-05-25 14:23:46.812 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:23:46.813 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Saldo en mi cuenta $800.0
+2022-05-25 14:31:39.029 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - primer saldo en mi cuenta $500.0
+2022-05-25 14:31:39.036 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:31:39.037 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - De mi cuenta retire dinero y quede con este nuevo saldo $400.0
+2022-05-25 14:31:39.037 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:31:39.037 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Saldo en la cuenta de Carlos $1000.0
+2022-05-25 14:31:39.038 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:31:39.038 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - cuenta de Carlos600.0
+2022-05-25 14:31:39.039 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Saldo en mi cuenta $800.0
+2022-05-25 14:32:52.236 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - primer saldo en mi cuenta $500.0
+2022-05-25 14:32:52.240 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:32:52.241 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - De mi cuenta retire dinero y quede con este nuevo saldo $400.0
+2022-05-25 14:32:52.241 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:32:52.242 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Saldo en la cuenta de Carlos $1000.0
+2022-05-25 14:32:52.242 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:32:52.242 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Nuevo saldo en la cuenta de Carlos despues de hacer la transferencia a mi cuenta $600.0
+2022-05-25 14:32:52.243 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Saldo en mi cuenta $800.0
+2022-05-25 14:33:55.516 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - primer saldo en mi cuenta $500.0
+2022-05-25 14:33:55.520 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:33:55.521 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Segundo saldo en mi cuenta despues de hacer el retiro $400.0
+2022-05-25 14:33:55.521 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:33:55.521 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Saldo en la cuenta de Carlos $1000.0
+2022-05-25 14:33:55.521 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:33:55.521 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Nuevo saldo en la cuenta de Carlos, despues de hacer la transferencia a mi cuenta $600.0
+2022-05-25 14:33:55.523 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - tercer saldo en mi cuenta $800.0
+2022-05-25 14:44:02.723 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - primer saldo en mi cuenta $500.0
+2022-05-25 14:44:02.728 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:44:02.728 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Segundo saldo en mi cuenta, despues de hacer el retiro $400.0
+2022-05-25 14:44:02.729 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:44:02.729 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Saldo en la cuenta de Carlos $1000.0
+2022-05-25 14:44:02.729 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:44:02.730 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - La transferencia realizada por Carlos fue exitosa
+2022-05-25 14:44:37.292 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - primer saldo en mi cuenta $500.0
+2022-05-25 14:44:37.296 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:44:37.296 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Segundo saldo en mi cuenta, despues de hacer el retiro $400.0
+2022-05-25 14:44:37.297 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:44:37.297 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Saldo en la cuenta de Carlos $1000.0
+2022-05-25 14:44:37.297 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 14:44:37.297 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - La transferencia realizada por Carlos a mi cuenta fue exitosa
+2022-05-25 15:03:44.893 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - primer saldo en mi cuenta $500.0
+2022-05-25 15:03:44.898 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 15:03:44.899 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Segundo saldo en mi cuenta, despues de hacer el retiro $400.0
+2022-05-25 15:03:44.899 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 15:03:44.899 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - Saldo en la cuenta de Carlos $1000.0
+2022-05-25 15:03:44.900 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - 
+2022-05-25 15:03:44.900 [main] INFO  entidadbancaria.ManejoDeCuentaDepositoYRetiro - La transferencia realizada por Carlos a mi cuenta fue exitosa
+2022-05-25 15:03:52.658 [main] INFO  entidadbancaria.TestReferencia2 - Informacion de la cuenta de Carlos 37689592
+2022-05-25 15:04:29.130 [main] INFO  entidadbancaria.TestReferencia2 - Informacion del documento de identidad de la cuenta de Carlos 37689592
+2022-05-25 15:06:13.256 [main] INFO  entidadbancaria.TestReferencia2 - Informacion del documento de identidad de la cuenta de Carlos 37689592
+2022-05-25 15:06:13.261 [main] INFO  entidadbancaria.TestReferencia2 - Informacion del espacio en memoria de la cuenta de Carlosentidadbancaria.ClienteDelBanco@52815fa3
+2022-05-25 15:06:29.370 [main] INFO  entidadbancaria.TestReferencia2 - Informacion del documento de identidad de la cuenta de Carlos 37689592
+2022-05-25 15:06:29.378 [main] INFO  entidadbancaria.TestReferencia2 - Informacion del espacio en memoria de la cuenta de Carlos entidadbancaria.ClienteDelBanco@52815fa3
+2022-05-25 15:07:38.596 [main] INFO  entidadbancaria.TestReferencia2 - Informacion del documento de identidad de la cuenta de Carlos 37689592
+2022-05-25 15:07:38.602 [main] INFO  entidadbancaria.TestReferencia2 - Información del espacio en memoria de la cuenta de Carlos ....entidadbancaria.ClienteDelBanco@6736fa8d
+2022-05-25 15:08:20.672 [main] INFO  entidadbancaria.TestReferencia2 - Informacion del documento de identidad de la cuenta de Carlos 37689592
+2022-05-25 15:08:20.676 [main] INFO  entidadbancaria.TestReferencia2 - Información del espacio en memoria de la cuenta de Carlos ....entidadbancaria.ClienteDelBanco@52815fa3
+2022-05-25 15:08:20.677 [main] INFO  entidadbancaria.TestReferencia2 - entidadbancaria.ClienteDelBanco@52815fa3
+2022-05-25 15:32:45.388 [main] INFO  entidadbancaria.TestReferencia3 - Carlos

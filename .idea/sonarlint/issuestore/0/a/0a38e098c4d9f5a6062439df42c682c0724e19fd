@@ -1,0 +1,18 @@
+
+M
+java:S1135"2Complete the task associated to this TODO comment.(îœäïúÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "cuenta3".(Ê‚õ³
+Q
+java:S1854";Remove this useless assignment to local variable "cuenta2".(´£àÎ
+U
+java:S1854":Remove this useless assignment to local variable "cuenta".(ùĞªòúÿÿÿÿ
+F
+java:S1481"+Remove this unused "cuenta" local variable.(ùĞªòúÿÿÿÿ
+B
+java:S1481",Remove this unused "cuenta2" local variable.(´£àÎ
+B
+java:S1481",Remove this unused "cuenta3" local variable.(Ê‚õ³
+Q	java:S125"<This block of commented-out lines of code should be removed.(åËà‹
+@
+java:S1068"*Remove this unused "logger" private field.(ıÃ¿¿
